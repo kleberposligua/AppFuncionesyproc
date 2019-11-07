@@ -43,5 +43,9 @@ namespace AppFuncionesyproc
         {
             return (a + b);
         }
+        int fnresta(int a, int b)
+        {
+            return (a - b);
+        }
     }
 }
